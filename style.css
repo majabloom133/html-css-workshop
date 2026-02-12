@@ -23,13 +23,17 @@ footer {
 }
 
 
-
-
 table {
     width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
     margin-bottom: 40px;
+
+    background-color: white;
+    border: 1px solid #e0d7d1;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 th, td {

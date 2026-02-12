@@ -62,3 +62,4 @@ I also changed the footer color and background color.
 Changed some text in form to bold, changed background color in dropdown menu to match theme.
 I used fav.farm to get the link to a coffee cup favicon, to make it fit the theme. 
 I also learned that emojis counts as regular text in html file, so i just copied it into the header text to match the theme better. 
+I asked ai for help with making a white background for menu highlights. added border-radius for rounded corners, overflow hidden to keep background inside the corners, and box-shadow to get a shadow. I also changed the background and the border. 
