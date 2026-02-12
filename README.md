@@ -41,6 +41,11 @@ I changed the appearence in style.css for all the tags in index.html.
 
 Since I added the Hours form later on, the last thing i did was change it in css. I centered it, changed margin and padding, added a background color and a border. 
 
+I then thought I should add at least something other then the workshop instructions, so i asked ai about additional changes to make it look better. So i changed the headers, by matching the header color, and adding a line under the header. I also added padding in td, th. To give the menu a little more space. 
+
+Then, in body, i added max-width to make sure the page is more narrow. Then i centered the content with margin auto, and added padding on the side since it's supposed to be good for phone usage. 
+
+
 While I was working, i commited the changes and pushed it to github. 
 
 Now I'll make some small, final changes and then deploy the webpage using GitHub Pages, to finish up the project. 
