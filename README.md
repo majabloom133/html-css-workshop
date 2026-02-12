@@ -49,3 +49,14 @@ Then, in body, i added max-width to make sure the page is more narrow. Then i ce
 While I was working, i commited the changes and pushed it to github. 
 
 Now I'll make some small, final changes and then deploy the webpage using GitHub Pages, to finish up the project. 
+
+Extra changes:
+
+In th, i changed the background to match the color theme, and then i changed text color to white, so it can be seen on the brown background. 
+
+In table, I changed margin-bottom to 20px to add space after the table. 
+In th, td I changed the border color to match the color theme.
+In index.html i added <b> to Opening Hours text, to make Weekdays bold.
+In style.css, in the form, i changed some colors
+I also changed the footer color and background color.
+Changed some text in form to bold, changed background color in dropdown menu to match theme.

@@ -17,8 +17,9 @@ header {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #eee;
+    background-color: #6f4e37;
     margin-top: 20px; 
+    color: white;
 }
 
 
@@ -28,16 +29,18 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
+    margin-bottom: 40px;
 }
 
 th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
+    border: 1px solid #e0d7d1;
+    padding: 12px;
     text-align: left;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #6F4E37;
+    color: white;
 }
 
 td, th {
@@ -47,7 +50,8 @@ td, th {
 form {
 background-color: white;
 padding: 20px;
-border: 1px solid #ccc;
+border: 1px solid #e0d7d1;
+color:#6F4E37
 }
 
 label, input, select, textarea {
@@ -77,4 +81,14 @@ h2 {
     border-bottom: px solid #6F4E37;
     padding-bottom: 5px;
     margin-top: 40 px;
+}
+
+select {
+    background-color: white;
+    color: #6f4e37;
+    padding: 10px;
+    border: 1px solid #6f4e37;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
 }
