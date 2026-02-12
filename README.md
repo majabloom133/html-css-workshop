@@ -1,6 +1,46 @@
-I started with creating the files, index.html, style.css, README.md, and .gitignore.
-I chose the project idea with a café information page with menu highlights, hours and 
-In index.html i added Doctype to tell what version html i'm using, and lang to set the language. 
-Then i added head, body etc.
-I added a header, a main and a footer
-I added a table With
+Setup:
+
+I chose the project idea with creating a café information page with menu highlights, hours and contact form.
+I made a repo on github and cloned it to my computer.
+I made the files: index.html, style.css, README.md and .gitignore.
+
+
+
+I set up the basics, doctype and lang to describe what version of html and what language
+I also added meta tags to make the page look good on phones as well. 
+Then i added html, head and body tags
+I also added semantic tags like header, main, section and footer. 
+
+I used <table> to show the menu highlights. In table i used thead, tr and th tags to add items, desriptions and prices.
+
+In the table, i also added a contact form with a dropdown menu, and then in a later commit i also added opening hours to index.html and style.css
+
+I used <form> with input types, and <label>. The form is a contact form with a dropdown menu.
+
+I added a footer with copyright text
+
+
+
+
+
+CSS:
+
+I used CSS selectors to add colors, change margin, fonts and text sizes and centered it.
+(I also made sure the html file knew to look in css file, using "<link rel="stylesheet" href="style.css">")
+
+For example, i added this to styling.css:
+"body {
+    font-family: sans serif;
+    background-color: #f9f9f9;
+    color: #333;
+}"
+
+This makes background white, changes the text to dark grey, and changes the text in body to sans serif.
+
+I changed the appearence in style.css for all the tags in index.html.
+
+Since I added the Hours form later on, the last thing i did was change it in css. I centered it, changed margin and padding, added a background color and a border. 
+
+While I was working, i commited the changes and pushed it to github. 
+
+Now I'll make some small, final changes and then deploy the webpage using GitHub Pages, to finish up the project. 
