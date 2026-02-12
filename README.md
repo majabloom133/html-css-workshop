@@ -56,7 +56,7 @@ In th, i changed the background to match the color theme, and then i changed tex
 
 In table, I changed margin-bottom to 20px to add space after the table. 
 In th, td I changed the border color to match the color theme.
-In index.html i added "<b>" to Opening Hours text, to make Weekdays bold.
+In index.html i added "b" to Opening Hours text, to make Weekdays bold.
 In style.css, in the form, i changed some colors
 I also changed the footer color and background color.
 Changed some text in form to bold, changed background color in dropdown menu to match theme.
