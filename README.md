@@ -60,3 +60,5 @@ In index.html i added <b> to Opening Hours text, to make Weekdays bold.
 In style.css, in the form, i changed some colors
 I also changed the footer color and background color.
 Changed some text in form to bold, changed background color in dropdown menu to match theme.
+I used fav.farm to get the link to a coffee cup favicon, to make it fit the theme. 
+I also learned that emojis counts as regular text in html file, so i just copied it into the header text to match the theme better. 
