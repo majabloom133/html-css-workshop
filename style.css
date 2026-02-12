@@ -58,3 +58,11 @@ button {
     border: none;
     cursor: pointer;
 }
+
+#hours {
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
