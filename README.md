@@ -11,11 +11,11 @@ I also added meta tags to make the page look good on phones as well.
 Then i added html, head and body tags
 I also added semantic tags like header, main, section and footer. 
 
-I used <table> to show the menu highlights. In table i used thead, tr and th tags to add items, desriptions and prices.
+I used table to show the menu highlights. In table i used thead, tr and th tags to add items, desriptions and prices.
 
 In the table, i also added a contact form with a dropdown menu, and then in a later commit i also added opening hours to index.html and style.css
 
-I used <form> with input types, and <label>. The form is a contact form with a dropdown menu.
+I used form with input types, and label. The form is a contact form with a dropdown menu.
 
 I added a footer with copyright text
 
@@ -56,7 +56,7 @@ In th, i changed the background to match the color theme, and then i changed tex
 
 In table, I changed margin-bottom to 20px to add space after the table. 
 In th, td I changed the border color to match the color theme.
-In index.html i added <b> to Opening Hours text, to make Weekdays bold.
+In index.html i added "<b>" to Opening Hours text, to make Weekdays bold.
 In style.css, in the form, i changed some colors
 I also changed the footer color and background color.
 Changed some text in form to bold, changed background color in dropdown menu to match theme.
